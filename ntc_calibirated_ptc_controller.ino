@@ -28,8 +28,8 @@ unsigned long lastFetchTime = 0;
 const unsigned long fetchInterval = 5000;  // 5 seconds
 
 // Replace these with your actual Wi-Fi SSID & password
-const char* ssid = "K";
-const char* password = "12345678";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 void setup() {
   Serial.begin(115200);
