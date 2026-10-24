@@ -54,4 +54,4 @@ The device calls `GET <serverUrl>/api?avgLeft=..&avgRight=..` and expects:
 - Demonstrated the working prototype at Sairam Incubation Foundation.
 
 ## Author
-**Keerthivasan J**, B.E. EEE, Sri Sairam Engineering College ([GitHub](https://github.com/Keerthivasan-cdm) · [LinkedIn](https://linkedin.com/in/keerthi-vasan-j))
+**Keerthivasan J**, B.E. EEE, Sri Sairam Engineering College ([GitHub](https://github.com/Keerthivasan-cdm) · [LinkedIn](https://linkedin.com/in/keerthi-vasan-j-))
